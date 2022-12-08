@@ -1,2 +1,2 @@
-# meteor-
+# meteor
 meteor engine
